@@ -1,0 +1,6 @@
+streamlit
+pandas
+pillow
+streamlit-drawable-canvas
+arabic-reshaper
+python-bidi
