@@ -1,6 +1,8 @@
-streamlit
+streamlit==1.32.2
 pandas
 pillow
-streamlit-drawable-canvas
+pytesseract
+opencv-python-headless
+numpy
 arabic-reshaper
 python-bidi
